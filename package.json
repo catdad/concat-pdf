@@ -2,7 +2,7 @@
   "name": "concat-pdf",
   "version": "1.0.0",
   "description": "🗃 concatenate pdf files in the command line",
-  "main": "index.js",
+  "bin": "bin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
