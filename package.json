@@ -1,0 +1,23 @@
+{
+  "name": "concat-pdf",
+  "version": "1.0.0",
+  "description": "🗃 concatenate pdf files in the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catdad/concat-pdf.git"
+  },
+  "keywords": [],
+  "author": "Kiril Vatev <vatev.1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catdad/concat-pdf/issues"
+  },
+  "homepage": "https://github.com/catdad/concat-pdf#readme",
+  "dependencies": {
+    "pdf-merger-js": "^4.3.0"
+  }
+}
