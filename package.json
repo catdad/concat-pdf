@@ -1,5 +1,5 @@
 {
-  "name": "concat-pdf",
+  "name": "cat-pdf",
   "version": "0.0.1",
   "description": "🗃 concatenate pdf files in the command line",
   "bin": "bin.js",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/catdad/concat-pdf#readme",
   "dependencies": {
     "pdf-merger-js": "^4.3.0"
-  }
+  },
+  "files": [
+    "bin.js"
+  ]
 }
