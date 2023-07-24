@@ -1,6 +1,6 @@
 {
   "name": "concat-pdf",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "🗃 concatenate pdf files in the command line",
   "bin": "bin.js",
   "scripts": {
